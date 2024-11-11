@@ -1,4 +1,6 @@
-## Hi there 👋
+[![kazumJ05s GitHub stats](https://github-readme-stats.vercel.app/api?username=kazumJ05&theme=vue-dark&show_icons=true)](https://github.com/kazumJ05/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazumJ05&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/kazumJ05/github-readme-stats)
 
 <!--
 **kazumJ05/kazumJ05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
